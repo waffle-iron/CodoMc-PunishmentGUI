@@ -1,0 +1,8 @@
+name: CodoMc-PunishGUI
+author: Steave0982
+version: 1.0.0.0
+main: me.steave0982.punish.Main
+description: Gui System for staff punishments
+commands:
+  p:
+  punish:
